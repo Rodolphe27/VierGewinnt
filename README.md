@@ -1,7 +1,7 @@
 # Vier Gewinnt (Connect Four) Game
 
 ## Overview
-This Java program implements a simplified version of the classic "Connect Four" game, known as "Vier Gewinnt" in German. The game is designed for two players who take turns dropping colored discs into a 6x7 grid, with the goal of connecting four discs of the same color in a row.
+This Java program implements a simplified version of the classic "Connect Four" game, known as "Vier Gewinnt" in German. The game is designed for two players who take turns dropping colored discs into a 6x7 grid, with the goal of connecting four discs of the same color in a row. Crafting this game was not only about creating entertainment but also seizing an opportunity to elevate my Java skills and revisit the fundamentals that form the backbone of my programming journey.
 
 ## Getting Started
 Ensure you have Java installed on your system to run the game.
