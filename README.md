@@ -10,8 +10,10 @@ Ensure you have Java installed on your system to run the game.
    ```bash
    git clone https://github.com/your-username/VierGewinnt.git
    cd VierGewinnt
-javac VierGewinnt.java
-java VierGewinnt
+   javac VierGewinnt.java
+   java VierGewinnt
+
+
 
 ## How to Play
 
